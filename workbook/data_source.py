@@ -9,7 +9,6 @@ def valid_file_path(value):
         raise ValueError(value, " is not present. Please make sure the file exists")
     return value
 
-
 def valid_http_url(value):
     if (value is None or re.compile(
             r'^https?://'  # http:// or https://

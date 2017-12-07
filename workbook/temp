@@ -1,0 +1,25 @@
+class ValidDataSourcePath(object):
+    def __init__(self, default_data_source_type_field='data_source_type'):
+        self._default = ''
+        self._default_data_source_type_field = default_data_source_type_field
+        self.values = WeakKeyDictionary()
+
+    def __get__(self, instance, owner):
+        return self.values.get(instance, self._default)
+
+    def __set__(self, instance, *value):
+        data_source_type_field = self._default_data_source_type_field
+        value_to_set = None
+
+        if value and len(value) == 1 and isinstance(value[0], str):  # user sent only the value
+            value_to_set = value[0]
+        if value and len(value) == 1 and isinstance(value[0], tuple):  # user sent the value , and the validation field
+            value_to_set = value[0][0]
+            data_source_type_field = value[0][1]
+
+        _data_source_type = getattr(instance, data_source_type_field, None)
+        if not _data_source_type:
+            raise ValueError(" Valid source path depends on ValidDataSourceType , "
+                             " please make sure you have an attribute named ValidDataSourceType")
+        _data_source_type.validator(value_to_set)
+        self.values[instance] = value_to_set
