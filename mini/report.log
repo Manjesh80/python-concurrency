@@ -1,0 +1,196 @@
+DEBUG:asyncio:Using selector: SelectSelector
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.w3.org', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.addthis.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.cnn.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.bing.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.dailymail.co.uk', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.adobe.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.qq.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.baidu.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.miitbeian.gov.cn', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.stumbleupon.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.imdb.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.msn.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.telegraph.co.uk', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.free.fr', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.apache.org', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.latimes.com', port=80, ssl=False)>
+WARNING:aiohttp.client:Can not load response cookies: Illegal key '_csrf/link'
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.businessinsider.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.bbc.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.google.fr', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.homestead.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.independent.co.uk', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.pbs.org', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.who.int', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.icio.us', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.foxnews.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.cornell.edu', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.google.it', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.domainactive.co', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.hatena.ne.jp', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.dailymotion.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.ca.gov', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.wiley.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.163.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.jiathis.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.namejet.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.cbc.ca', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.springer.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.sfgate.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.chicagotribune.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.slate.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.nydailynews.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.histats.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.sciencemag.org', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.prweb.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.census.gov', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.hostgator.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.mirror.co.uk', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.shareasale.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.rollingstone.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.newsweek.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.marriott.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.xinhuanet.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.ifeng.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.washington.edu', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.globo.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.ustream.tv', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.youku.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.zdnet.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.smh.com.au', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.ucla.edu', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.psu.edu', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.22.cn', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.people.com.cn', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.ox.ac.uk', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.lemonde.fr', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.dell.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.oecd.org', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.bmj.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.nhk.or.jp', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.adweek.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.cafepress.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.unc.edu', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.chron.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.aboutads.info', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.mtv.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.nytimes.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.mozilla.org', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.jimdo.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.dropbox.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.paypal.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.weebly.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.huffingtonpost.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.bbc.co.uk', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.123-reg.co.uk', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='digg.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.yelp.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.yandex.ru', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.aol.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.addtoany.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.bloomberg.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.pinterest.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.adobe.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.washingtonpost.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.dotdash.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='time.com', port=80, ssl=False)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.xing.com', port=443, ssl=True)>
+ERROR:asyncio:Unclosed connection
+client_connection: Connection<ConnectionKey(host='www.hostnet.nl', port=443, ssl=True)>
